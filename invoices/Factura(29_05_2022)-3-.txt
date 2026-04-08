@@ -1,0 +1,27 @@
+-------------------------------- Factura Compra --------------------------------
+
+
+-------------------------------- Fecha: 29/05/2022 -------------------------------
+
+
+
+
+Nombre del producto:disco duro
+Características: Es perfecto para tu ordenador y tiene 1TB de almacenamiento.
+Categoría: Componentes
+Precio unitario: 56.82
+Cantidad: 1
+
+
+
+
+DATOS DEL CLIENTE:
+    Nombre: 7
+    Correo: 7
+    Número Tarjeta: 7777777777777777
+    Teléfono: 7
+---------------------------------------------------------------------------------
+IMPORTE: 56.82
+
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+# ── Build output ──────────────────────────────────────────────────
+target/
+
+# ── Runtime-generated data files ─────────────────────────────────
+*.dat
+Facturas/
+
+# ── IDE files ─────────────────────────────────────────────────────
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# NetBeans
+nbproject/private/
+nb-configuration.xml
+nbactions.xml
+nbbuild/
+nbdist/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# ── OS files ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── Java / Maven ──────────────────────────────────────────────────
+*.class
+*.jar
+*.war
+*.log
+hs_err_pid*

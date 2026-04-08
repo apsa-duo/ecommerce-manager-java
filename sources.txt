@@ -1,0 +1,16 @@
+C:\JavaComp2023\src\main\java\com\javacomp\ui\AdminLoginFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\AdminMenuFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\BusinessRegistrationFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\CustomerLandingFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\CustomerLoginFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\CustomerMenuFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\CustomerRegistrationFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\EditBusinessFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\EditIndividualFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\IndividualRegistrationFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\MainMenuFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\ProductManagementFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\PurchaseFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\SalesQueryFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\SubmitReviewFrame.java
+C:\JavaComp2023\src\main\java\com\javacomp\ui\UserManagementFrame.java

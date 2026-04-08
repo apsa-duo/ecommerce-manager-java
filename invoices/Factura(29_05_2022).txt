@@ -1,0 +1,27 @@
+-------------------------------- Factura Compra --------------------------------
+
+
+-------------------------------- Fecha: 29/05/2022 -------------------------------
+
+
+
+
+Nombre del producto:iphone 13
+Características: Este nuevo smartphone de apple es de los mejores del mercado. Además, puedes conevctar tus airpods y tiene una memoria de 1TB
+Categoría: Móviles y telefonía
+Precio unitario: 822.0
+Cantidad: 1
+
+
+
+
+DATOS DEL CLIENTE:
+    Nombre: 3
+    Correo: 3
+    Número Tarjeta: 3333333333333333
+    Teléfono: 3
+---------------------------------------------------------------------------------
+IMPORTE: 822.0
+
+
+-------------------------------------------------------------------------------
